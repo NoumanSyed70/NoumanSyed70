@@ -1,0 +1,2 @@
+The sum of the integers you entered in integer file is 1051
+The average of the integers you enetered in integer file is 210.2
